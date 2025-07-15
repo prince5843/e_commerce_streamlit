@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Commerce Listing Automation System
 
 A smart and automated system for extracting product data from e-commerce websites and generating optimized listings with AI-powered content.
@@ -188,3 +189,6 @@ This project is for educational and commercial use. Please respect the terms of 
 ---
 
 **Happy E-commerce Automation! 🛒✨** 
+=======
+# e_commerce_streamlit
+>>>>>>> e59a24786ebbd880fa92c27cb99b8be6a6483aca
