@@ -1,0 +1,26 @@
+# Selenium ChromeDriver setup instructions
+
+To use Selenium with Chrome in your project, you need to download the ChromeDriver executable that matches your installed version of Google Chrome.
+
+## Steps:
+
+1. **Check your Chrome version:**
+   - Open Chrome and go to `chrome://settings/help` to see your version.
+
+2. **Download ChromeDriver:**
+   - Go to: https://sites.google.com/chromium.org/driver/
+   - Download the version that matches your Chrome browser.
+
+3. **Extract and place chromedriver.exe:**
+   - Extract the downloaded file.
+   - Place `chromedriver.exe` in your project root, or add its folder to your system PATH.
+
+4. **(Optional) Specify path in code:**
+   - If not in PATH, update your code:
+     ```python
+     driver = webdriver.Chrome(executable_path='path/to/chromedriver', options=chrome_options)
+     ```
+
+5. **Run your script!**
+
+If you have any issues, let me know and I can help troubleshoot.
