@@ -9,3 +9,5 @@ playwright
 openpyxl
 Pillow
 plotly
+selenium
+webdriver-manager
